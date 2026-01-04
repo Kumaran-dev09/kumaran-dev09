@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-dev09&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://gh-readme-stats-sigma-five.vercel.app/api?username=Kumaran-dev09&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
 <br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-dev09&layout=compact&theme=midnight-purple&hide_border=true)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-dev09&layout=compact&theme=midnight-purple&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
